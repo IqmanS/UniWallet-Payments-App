@@ -1,4 +1,6 @@
 <h1>Aim of the Project</h1>
+
+
 <p> FamPay Payments App UI Redesign focused on Teenagers </p>
 <img src = "https://raw.githubusercontent.com/IqmanS/HackTU4.0_fampay/master/preview_images/cover.png">
 
@@ -12,8 +14,11 @@ Put on your thinking caps and dream up a unique and innovative solution ( a web 
 
 <h1>Problem we tried to solve</h1>
 
+
 <p> In an already clustered market where online payments UPI app such as paytm,phonePe,GPay have well established name FamPay wants to target India's future the teenagers and to do say needs something creative that gives a statement yet simple that doesn't make it complicated to understand.
 </p>
+
+---
 
 **Idea #1**
 
@@ -34,7 +39,12 @@ We already know how wallet and UPI payment are too quick and hassle free that ma
 <div align = "center">
 <img src ="https://raw.githubusercontent.com/IqmanS/HackTU4.0_fampay/master/preview_images/1.png" width = 250 align = "center">
 </div>
-===
+
+
+
+---
+
+
 
 **Idea #2**
 
