@@ -1,8 +1,9 @@
 <h1>Aim of the Project</h1>
 
 
-<p> FamPay Payments App UI Redesign focused on Teenagers </p>
-<img src = "https://raw.githubusercontent.com/IqmanS/HackTU4.0_fampay/master/preview_images/cover.png">
+Payments App focused on Teenagers developed as a project in *HackTU 4.0*
+
+<br><img src = "https://raw.githubusercontent.com/IqmanS/UniWallet-Payments-App/master/UniWallet.png">
 
 ***FamPay Problem Statement Track 1***
 
